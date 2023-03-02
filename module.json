@@ -3,7 +3,7 @@
     "name": "jcp-custom-module",
     "title": "Jeffrey's Custom Module",
     "description": "A collection of my content tweaks.",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Jeffrey Pina",
@@ -17,6 +17,9 @@
         "minimum": "0.8.6",
         "verified": "10"
     },
+    "esmodules": [
+        "jcp-custom-module.js"
+    ],
     "packs": [
         {
             "name": "module-creatures",
@@ -77,6 +80,6 @@
             "type": "Adventure"
         }
     ],
-    "download": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.1/jcp_custom_module.zip",
-    "manifest": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.1/module.json"
+    "download": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.0/jcp_custom_module.zip",
+    "manifest": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.0/module.json"
   }
