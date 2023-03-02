@@ -3,7 +3,7 @@
     "name": "jcp-custom-module",
     "title": "Hello",
     "description": "A collection of my content.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "jeff",
@@ -77,6 +77,6 @@
             "type": "Adventure"
         }
     ],
-    "download": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.0/jcp_custom_module.zip",
-    "manifest": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.0/module.json"
+    "download": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.1/jcp_custom_module.zip",
+    "manifest": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.1/module.json"
   }
