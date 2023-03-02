@@ -18,7 +18,8 @@
         "verified": "10"
     },
     "esmodules": [
-        "jcp_custom_module.js"
+        "jcp_custom_module.js",
+        "jqueryui_accordian/jquery-ui.min.js"
     ],
     "packs": [
         {
