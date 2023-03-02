@@ -77,6 +77,6 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "download": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.0/jcp_custom_module.zip",
+    "manifest": "https://github.com/jeffcpina/jcp_custom_module/releases/download/1.0.0/module.json"
   }
