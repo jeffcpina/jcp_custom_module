@@ -21,6 +21,9 @@
         "jcp_custom_module.js",
         "jqueryui_accordian/jquery-ui.min.js"
     ],
+    "styles": [
+		"jqueryui_accordian/jquery-ui.min.css" 
+    ],
     "packs": [
         {
             "name": "module-creatures",
