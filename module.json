@@ -17,13 +17,6 @@
         "minimum": "0.8.6",
         "verified": "10"
     },
-    "esmodules": [
-        "jcp-custom-module.js",
-        "jqueryui_accordian/jquery-ui.min.js"
-    ],
-     "styles": [
-		"jqueryui_accordian/jquery-ui.min.css" 
-    ],
     "packs": [
         {
             "name": "module-creatures",
