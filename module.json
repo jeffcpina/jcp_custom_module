@@ -18,7 +18,7 @@
         "verified": "10"
     },
     "esmodules": [
-        "jcp-custom-module.js"
+        "jcp_custom_module.js"
     ],
     "packs": [
         {
