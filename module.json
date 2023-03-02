@@ -1,12 +1,12 @@
   {
     "id": "jcp-custom-module",
     "name": "jcp-custom-module",
-    "title": "Hello",
-    "description": "A collection of my content.",
+    "title": "Jeffrey's Custom Module",
+    "description": "A collection of my content tweaks.",
     "version": "1.0.1",
     "authors": [
         {
-            "name": "jeff",
+            "name": "Jeffrey Pina",
             "discord": "MyDiscordUsername#42",
             "url": "https://www.mywebsite.com/"
         }
@@ -17,6 +17,13 @@
         "minimum": "0.8.6",
         "verified": "10"
     },
+    "esmodules": [
+        "jcp-custom-module.js",
+        "jqueryui_accordian/jquery-ui.min.js"
+    ],
+     "styles": [
+		"jqueryui_accordian/jquery-ui.min.css" 
+    ],
     "packs": [
         {
             "name": "module-creatures",
